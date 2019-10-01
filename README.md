@@ -18,6 +18,10 @@ However, it has some issues:
 
 This script fixes that. It overrides the status bars for all currently running simulators using "Apple's defaults" &mdash; full cellular bars, full wifi bars, full battery, and `9:41` for the time.
 
+## Usage
+- Start any simulator with Xcode 11
+- Run `swift 9_41.swift`
+
 ## License
 
 Released under an [MIT License](https://opensource.org/licenses/MIT). See `LICENSE` for details.
